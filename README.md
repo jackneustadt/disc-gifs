@@ -1,5 +1,5 @@
 # disc-gifs
-Temporary folder of gif version of figures from "Using AGN lightcurves to map accretion disc temperature fluctuations" - Neustadt &amp; Kochanek, 2022.
+Temporary folder of gif version of figures from "Using AGN lightcurves to map accretion disc temperature fluctuations" - Neustadt &amp; Kochanek, 2022, submitted to MNRAS.
 
 In our paper, we invert AGN UV/optical lightcurves into maps of temperature fluctuations on the surface of the accretion disc as a function of time and radius.  Due to the nature of the inversion, rather than a single solution, we have a range of solutions that are dependent on a smoothing parameter xi, which each have a chi^2 goodness-of-fit value associated with it.  The figures in our paper show how the solutions change for a chosen set of xi values. These gif versions show a more complete range of xi values and show in finer detail how the temperature fluctuation patterns and chi^2 change with increasing (and decreasing) xi.  
 
