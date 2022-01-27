@@ -5,4 +5,4 @@ In our paper, we invert AGN UV/optical lightcurves into maps of temperature fluc
 
 For each AGN gif, the left plot shows the temperature fluctuation map as a color map.  The color scale is set as the 99th percentile of the range of |&delta;T/T| values, which is printed in the lower left hand corner, as well as the &chi;^2 per data point.  The right plot shows the &chi;^2 distribution as a function of smoothing parameter &xi;.  Each frame of the gif corresponds to the temperature fluctuation map solution associated with a given &xi; value, the value of which is plotted and printed in the right plot. 
 
-See the paper (arxiv link here) for more explanation.
+See the paper (https://arxiv.org/abs/2201.10565) for more explanation.
